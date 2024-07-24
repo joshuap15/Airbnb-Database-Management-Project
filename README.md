@@ -29,7 +29,7 @@ The business is based on Airbnb, a platform that enables guests to find and book
 
 The entity-relationship diagram (ERD) and the relational schema provide a visual representation of the database structure, detailing the relationships between different entities.
 
-![ERD Diagram](docs/5_phase1_ERD.pdf)
+![ERD Diagram](/airbnbimage.png)
 
 ### Sample Queries
 
